@@ -4,9 +4,9 @@ body {
 }
 
 .card {
-  width: 400px;
-  background: #fff;
-  margin: 16px auto;
+ width: 400px;
+ background: #fff;
+ margin: 16px auto;
 }
 
 .title {
@@ -24,4 +24,4 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-}
+  }
