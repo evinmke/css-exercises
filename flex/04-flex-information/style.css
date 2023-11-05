@@ -16,7 +16,7 @@ img {
 
 .items {
   display: flex;
-  width: 200px;
+  justify-content: center;
 }
 
 /* do not edit this footer */
