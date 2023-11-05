@@ -17,6 +17,16 @@ img {
 .items {
   display: flex;
   justify-content: center;
+  text-align: center;
+  gap: 52px;
+}
+
+.one, .two, .three, .four {
+  width: 200px;
+}
+
+.text {
+  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
