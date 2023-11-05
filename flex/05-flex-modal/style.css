@@ -78,5 +78,12 @@ button.cancel {
 
 .header, .text, .button-container {
   margin: 8px;
+  justify-content: space-between;
 }
+
+.header-text {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 
