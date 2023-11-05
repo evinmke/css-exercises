@@ -16,6 +16,8 @@ img {
 
 .items {
   display: flex;
+  width: 200px;
+  flex-wrap: wrap;
 }
 
 /* do not edit this footer */
