@@ -51,4 +51,12 @@ ul {
   display: flex;
 }
 
+.left {
+  display: flex;
+}
+
+.right {
+  display: flex;
+}
+
 
