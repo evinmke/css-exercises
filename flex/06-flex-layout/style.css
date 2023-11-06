@@ -37,6 +37,7 @@ input {
 .left-links, .right-links {
   display: flex;
   gap: 12px;
+  padding: 12px;
 }
 
 ul {
@@ -46,6 +47,7 @@ ul {
 
 a {
   text-decoration: none;
+  color: slategray;
 }
 
 .footer {
