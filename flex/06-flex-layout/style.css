@@ -54,3 +54,10 @@ a {
   background-color: lightgray;
 }
 
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
