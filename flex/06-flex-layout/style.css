@@ -31,17 +31,24 @@ input {
 
 .header, .footer {
   display: flex;
+  justify-content: space-between;
 }
 
 .left-links, .right-links {
   display: flex;
-  gap: 8px;
+  gap: 12px;
 }
 
 ul {
   list-style-type: none;
 }
 
+
 a {
   text-decoration: none;
 }
+
+.footer {
+  background-color: lightgray;
+}
+
